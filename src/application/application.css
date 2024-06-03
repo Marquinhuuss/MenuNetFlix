@@ -1,0 +1,27 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#img:hover{
+	
+}
+
+#root{
+	-fx-background-color: #363636;
+}
+
+#nome{
+	-fx-font-size: 20px;
+	-fx-text-fill: white;
+}
+
+#titulo{
+	-fx-font-size: 72px;
+	-fx-text-fill: red;
+	-fx-font-weight: bold;
+	
+}
+
+#botao:hover{
+	-fx-background-color: red;
+	-fx-text-fill: white;
+	
+}
+
